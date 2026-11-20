@@ -1,4 +1,5 @@
+
 User-agent: *
 Allow: /
 
-Sitemap: https://YOUR-DOMAIN.example/sitemap.xml
+Sitemap: https://charleschoga2025-wq.github.io/charles-choga-profile/sitemap.xml
