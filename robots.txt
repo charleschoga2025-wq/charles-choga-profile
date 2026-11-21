@@ -3,3 +3,12 @@ User-agent: *
 Allow: /
 
 Sitemap: https://charleschoga2025-wq.github.io/charles-choga-profile/sitemap.xml
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
